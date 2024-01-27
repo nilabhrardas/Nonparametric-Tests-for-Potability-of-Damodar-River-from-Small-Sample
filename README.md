@@ -1,3 +1,5 @@
 # Nonparametric Tests for Potability of Damodar River from Small Sample
+## Abstract
+The Damodar River, originating from Jharkhand and flowing through West Bengal, is essential for the survival of the surrounding biosphere community and the population living along its banks, which includes people from different cultural and ethnic backgrounds. The government and non-governmental organizations have been working to improve the quality of the river, with the Damodar Valley Corporation instrumental in addressing the natural flow of the river and its tributaries. Biochemical Oxygen Demand (BOD) is used to indicate the organic quality of water, and the BOD values measured at regular intervals along the course of the river reveal a persistently high level of pollution, mainly caused by untreated chemical effluent dumping by multiple industrial companies located along the river.
 ## Article
 https://www.researchgate.net/publication/375859849_Nonparametric_Tests_for_Potability_of_Damodar_River_from_Small_Sample
